@@ -1,4 +1,8 @@
-Testcase:
+## RUN: 
+    ```bash
+    npm run server
+    ```
+## Testcase:
 
 - Accessible
 - website technologies
