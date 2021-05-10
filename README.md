@@ -1,5 +1,5 @@
 ## EXAMPLE
-    Làm như trang <https://pentest-tools.com/home>
+Làm như trang [link](https://pentest-tools.com/home)
 ## RUN: 
     npm run server
     
