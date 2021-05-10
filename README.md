@@ -1,7 +1,6 @@
 ## RUN: 
-    ```bash
     npm run server
-    ```
+    
 ## Testcase:
 
 - Accessible
